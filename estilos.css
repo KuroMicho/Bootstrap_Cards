@@ -1,0 +1,73 @@
+h2   {
+    margin-inline-start: 330px;
+    }
+  
+.boton{
+    background-color:forestgreen ; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+}
+
+.boton:hover {
+    background-color: green; /* Green */
+    color: white;
+  }
+
+h1{
+    color: black;
+}
+
+.container
+{
+
+background-color: rgb(144, 196, 144);
+margin: 40px;
+padding: 40px;
+border: salmon;
+
+}
+
+body{
+  background-color: aquamarine;
+}
+
+.input
+{
+  margin-inline-start: 20px;
+}
+
+.link
+{
+    color: white;
+
+}
+
+#email
+{
+  margin-inline-start: 40px;
+
+}
+#submit_button
+{
+  background-color:darkcyan; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-left: 65px;
+}
+#contact_form
+{
+  margin-block-start: 60px;
+  margin-left: 20px;
+}
